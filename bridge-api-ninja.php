@@ -4,8 +4,8 @@ Plugin Name: Puente entre sitio y plataforma de prueba
 Plugin URI:
 Description: Puente entre sitio y plataforma de prueba.
 Version: 1.0.0
-Author: Desarrollo Bombero Ninja
-Author URI:
+Author: Marta Torre
+Author URI: https//martatorre.dev/
 License: GPLv2 or later
 Text Domain:
 */
